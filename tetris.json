@@ -1,14 +1,15 @@
 {
-	"contact": "https://discord.gg/6Qcqn83XU, @riuneko",
-	"templates": [
-	{
-		"name": "Tetris",
+  "faction": "Placetris",
+  "contact": "https://discord.gg/6Qcqn83XU, @riuneko",
+  "templates": [
+    {
+      "name": "Tetris",
 		"sources": [
 			"https://cdn.discordapp.com/attachments/666428092385853490/1131344498568470548/tetris.png"
 		],
 		"x": 260,
 		"y": 150
-	},
+    },
 	{
 		"name": "Nanahira",
 		"sources": [
@@ -17,12 +18,25 @@
 		"x": 243,
 		"y": 140
 	}
-	],
-	"whitelist": [
-{
-"name": "P3ACE",
-"url": "https://charity.pxls.space/p3ace"
-}
-],
-"blacklist": []
+  ],
+  "whitelist": [
+    {
+      "name": "r/hatsune",
+      "url": "https://gist.githubusercontent.com/mikusquared/c6bdc4969638ddafb7a7d25a9f695eff/raw/hatsune_2023_overlay.json"
+    },
+    {
+      "name": "r/osuplace",
+      "url": "https://osu.place/e/osuplace2023.json"
+    },
+    {
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
+    }
+  ],
+  "blacklist": [
+    {
+      "name": "Old",
+      "url": "https://rentry.org/placetris/raw"
+    }
+  ]
 }
