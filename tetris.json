@@ -1,0 +1,28 @@
+{
+	"contact": "https://discord.gg/6Qcqn83XU, @riuneko",
+	"templates": [
+	{
+		"name": "Tetris",
+		"sources": [
+			"https://cdn.discordapp.com/attachments/666428092385853490/1131344498568470548/tetris.png"
+		],
+		"x": 260,
+		"y": 150
+	},
+	{
+		"name": "Nanahira",
+		"sources": [
+			"https://cdn.discordapp.com/attachments/666428092385853490/1131571310284263636/P3full_1_1.png"
+		],
+		"x": 243,
+		"y": 140
+	}
+	],
+	"whitelist": [
+{
+"name": "P3ACE",
+"url": "https://charity.pxls.space/p3ace"
+}
+],
+"blacklist": []
+}
