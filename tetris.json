@@ -7,16 +7,16 @@
 		"sources": [
 			"https://cdn.discordapp.com/attachments/666428092385853490/1131344498568470548/tetris.png"
 		],
-		"x": 260,
-		"y": 150
+		"x": 760,
+		"y": 650
     },
 	{
 		"name": "Nanahira",
 		"sources": [
 			"https://cdn.discordapp.com/attachments/666428092385853490/1131571310284263636/P3full_1_1.png"
 		],
-		"x": 243,
-		"y": 140
+		"x": 643,
+		"y": 540
 	}
   ],
   "whitelist": [
