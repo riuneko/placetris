@@ -5,18 +5,18 @@
     {
       "name": "Tetris",
 		"sources": [
-			"https://cdn.discordapp.com/attachments/666428092385853490/1131744878112542870/tetris_shift.png"
+			"https://cdn.discordapp.com/attachments/666428092385853490/1131609193846157473/tetris_1.png"
 		],
-		"x": 760,
-		"y": 650
+		"x": 812,
+		"y": 527
     },
 	{
 		"name": "Nanahira",
 		"sources": [
 			"https://cdn.discordapp.com/attachments/666428092385853490/1131684548401442886/P3full_1_1.png"
 		],
-		"x": 738,
-		"y": 653
+		"x": 812,
+		"y": 539
 	}
   ],
   "whitelist": [
