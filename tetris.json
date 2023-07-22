@@ -23,10 +23,14 @@
     {
       "name": "UGA",
       "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
-    },
+    }, 
     {
       "name": "Dimden",
       "url": "https://dimden.dev/dimdenplace2023.json"
+    },
+    {
+      "name": "Jhinta and co.",
+      "url": "https://thmyblu.com/files/rplace-moderntetris-latam.json"
     }
   ],
   "blacklist": [
