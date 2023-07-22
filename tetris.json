@@ -9,29 +9,10 @@
       ],
       "x": 1328,
       "y": 1032
-    },
-    {
-      "name": "Nanahira",
-      "sources": [
-        ""
-      ],
-      "x": 828,
-      "y": 544
     }
   ],
   "whitelist": [ 
-    {
-      "name": "UGA",
-      "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
-    },
-    {
-      "name": "Dimden",
-      "url": "https://dimden.dev/dimdenplace2023.json"
-    },
-    {
-      "name": "Latam Tetris",
-      "url": "https://thmyblu.com/files/rplace-moderntetris-latam.json"
-    },
+
   ],
   "blacklist": [
     {
