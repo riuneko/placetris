@@ -4,26 +4,26 @@
   "templates": [
     {
       "name": "Tetris",
-		"sources": [
-			"https://cdn.discordapp.com/attachments/666428092385853490/1132119149448024165/bg-exc-o-b.png"
-		],
-		"x": 828,
-		"y": 532
+      "sources": [
+        "https://cdn.discordapp.com/attachments/666428092385853490/1132119149448024165/bg-exc-o-b.png"
+      ],
+      "x": 828,
+      "y": 532
     },
-	{
-		"name": "Nanahira",
-		"sources": [
-			""
-		],
-		"x": 828,
-		"y": 544
-	}
+    {
+      "name": "Nanahira",
+      "sources": [
+        ""
+      ],
+      "x": 828,
+      "y": 544
+    }
   ],
   "whitelist": [
     {
       "name": "UGA",
       "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
-    }, 
+    },
     {
       "name": "Dimden",
       "url": "https://dimden.dev/dimdenplace2023.json"
