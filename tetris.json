@@ -32,10 +32,6 @@
       "name": "Latam Tetris",
       "url": "https://thmyblu.com/files/rplace-moderntetris-latam.json"
     },
-    {
-      "name": "France",
-      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
-    }
   ],
   "blacklist": [
     {
