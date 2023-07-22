@@ -19,7 +19,7 @@
       "y": 544
     }
   ],
-  "whitelist": [
+  "whitelist": [ 
     {
       "name": "UGA",
       "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
@@ -31,6 +31,10 @@
     {
       "name": "Latam Tetris",
       "url": "https://thmyblu.com/files/rplace-moderntetris-latam.json"
+    },
+    {
+      "name": "France",
+      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
     }
   ],
   "blacklist": [
