@@ -9,6 +9,14 @@
       ],
       "x": 1328,
       "y": 1032
+    },
+    {
+      "name": "Puyo"
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1087842995899990148/1132739887532101782/Marle_sprite_half.png"
+      ],
+      "x": 1056,
+      "y": 1885
     }
   ],
   "whitelist": [ 
